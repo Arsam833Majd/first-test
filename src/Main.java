@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Hello world!");
         //test for github
         System.out.println("I'm in githubbbb");
+        int i = 0 ;
+        System.out.println(i);
     }
 }
